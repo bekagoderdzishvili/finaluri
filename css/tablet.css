@@ -1,0 +1,55 @@
+@media(max-width: 800px) {
+    .container {
+        max-width: 774px;
+        /* width: 100%; */
+        margin: auto;
+
+    }
+
+    header {
+        width: 774px;
+    }
+
+    .section1 {
+        width: 774px;
+    }
+
+    .section2 {
+        width: 774px;
+    }
+
+    .section3 {
+        width: 774px;
+    }
+
+    .section4 {
+        width: 774px;
+    }
+
+    footer {
+        width: 774px;
+    }
+
+    .section3 {
+        overflow-Y: scroll;
+    }
+
+    .sec2_img2 {
+        width: 230px;
+    }
+
+    .sec2_img {
+        width: 230px;
+    }
+
+    .section2{
+        padding: 48px 32px;
+    }
+    
+}
+
+@media(max-width 850px){
+    .page2_sec2_div1{
+        display: none;
+    }
+}

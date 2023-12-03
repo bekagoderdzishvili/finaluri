@@ -1,0 +1,47 @@
+@media(max-width 400px){
+    .container{
+        width: 375px;
+        margin: auto;
+    }
+    header {
+        width: 375px;
+        }
+
+    .section1 {
+        width: 375px;
+    }
+
+    .section2 {
+        width: 375px;
+    }
+
+    .section3 {
+        width: 375px;
+    }
+
+    .section4 {
+        width: 375px;
+    }
+
+    footer {
+        width: 375px;
+    }
+
+    .section3 {
+        overflow-Y: scroll;
+    }
+
+    .section2{
+        width: 375px;
+height: 404px;
+padding: 32px 8px;
+    }
+
+    .sec2_img2 {
+        width: 170px;
+    }
+
+    .sec2_img {
+        width: 170px;
+    }
+}
