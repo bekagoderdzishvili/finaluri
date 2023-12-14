@@ -1,47 +1,33 @@
-@media(max-width 400px){
-    .container{
-        width: 375px;
-        margin: auto;
+@media (max-width: 650px) {
+    .sec2_card_image {
+        width: 220px;
+        height: 140px;
+
+
     }
+
     header {
-        width: 375px;
-        }
-
-    .section1 {
-        width: 375px;
+        padding: 58px 8px;
     }
 
-    .section2 {
-        width: 375px;
+    .header_guit {
+        width: 39.871px;
+        height: 39.856px;
     }
 
-    .section3 {
-        width: 375px;
+    .sec4_tittle{
+        font-size: 16px;
     }
 
-    .section4 {
-        width: 375px;
+    .sec4_search_bar{
+        width: 150px;
     }
 
-    footer {
-        width: 375px;
-    }
+    .footer{
+        display: block;
 
-    .section3 {
-        overflow-Y: scroll;
     }
+    
+    
 
-    .section2{
-        width: 375px;
-height: 404px;
-padding: 32px 8px;
-    }
-
-    .sec2_img2 {
-        width: 170px;
-    }
-
-    .sec2_img {
-        width: 170px;
-    }
 }

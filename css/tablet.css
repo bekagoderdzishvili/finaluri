@@ -1,55 +1,28 @@
-@media(max-width: 800px) {
-    .container {
-        max-width: 774px;
-        /* width: 100%; */
-        margin: auto;
-
-    }
-
-    header {
-        width: 774px;
-    }
-
-    .section1 {
-        width: 774px;
-    }
-
-    .section2 {
-        width: 774px;
-    }
-
-    .section3 {
-        width: 774px;
-    }
-
-    .section4 {
-        width: 774px;
-    }
-
-    footer {
-        width: 774px;
-    }
-
-    .section3 {
-        overflow-Y: scroll;
-    }
-
-    .sec2_img2 {
-        width: 230px;
-    }
-
-    .sec2_img {
-        width: 230px;
-    }
-
-    .section2{
-        padding: 48px 32px;
-    }
+@media (max-width: 950px) {
     
+    .section2 {
+        padding: 32px 48px;
+    }
+
+    .sec2_card_image {
+        /* width:  100%; */
+        
+    }    
+   .page2_sec1_div{
+    display: none;
+   }
+   .page2_sec1{
+    display: none;
+   }
+   .contact_div1{
+   
+   }
+
+   .email {
+display: none;
+}
+.contact_sec1{
+    width: 150%%;
+}
 }
 
-@media(max-width 850px){
-    .page2_sec2_div1{
-        display: none;
-    }
-}
